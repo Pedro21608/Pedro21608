@@ -15,6 +15,8 @@
  <br>
  
  <div>
+ <a href="
+ https://www.youtube.com/channel/UCOnhDIh8KJj0MlmXvbOI06g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/Pedro21608/Pedro21608/blob/output/github-contribution-grid-snake.svg)
 
